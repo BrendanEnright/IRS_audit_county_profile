@@ -16,7 +16,7 @@ Comparing available data from IRS records, United States Census surveys, and vot
 * H<sub>0</sub> (Null Hypothesis) - Counties with higher observed audit rates from 2012 to 2016 will not be associated with higher proportions of racial and ethnic minority residents, higher levels of employment in certain industries, lower median income household levels, and higher levels of support for a particular political party. 
 * H<sub>1</sub> (Alternative Hypothesis) - Counties with higher observed audit rates from 2012 to 2016 will be associated with higher proportions of racial and ethnic minority residents, higher levels of employment in certain industries, lower median income household levels, and higher levels of support for a particular political party.
 
-##Data Sources
+## Data Sources
 To perform the analysis, data was retrieved from three sources:
 1. United States Census Bureau Data - https://data.census.gov/
 2. IRS Audit Data - compiled by Kim Bloomquist from IRS reports from 2012 to 2016 - https://www.taxnotes.com/special-reports/audits/regional-bias-irs-audit-selection/2019/03/01/2957w 
