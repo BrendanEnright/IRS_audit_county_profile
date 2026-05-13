@@ -21,6 +21,8 @@ To perform the analysis, data was retrieved from three sources:
 2. IRS Audit Data - compiled by Kim Bloomquist from IRS reports from 2012 to 2016 - https://www.taxnotes.com/special-reports/audits/regional-bias-irs-audit-selection/2019/03/01/2957w 
 3. National Neighborhood Data Archive - dataset created by a research team from the University of Michigan Institute for Social Research - https://www.icpsr.umich.edu/web/ICPSR/studies/38528/versions/V6
 
+### File Structure
+The File structure of this repository is laid out below:
 
 ## Data Replication Instructions
 To replicate the data cleaning, analysis, and visualization workflow for this project, follow the steps below.
@@ -49,3 +51,7 @@ To replicate the data cleaning, analysis, and visualization workflow for this pr
   - generate visualizations of key variables and model outputs,
   - produce figures for interpretation and review, and
   - summarize major trends identified in the analysis.
+
+## Project Deliverables
+
+To review a write-up of the project, visit this link: 
