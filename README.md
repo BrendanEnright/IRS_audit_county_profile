@@ -6,8 +6,8 @@ The repository includes data preparation workflows, statistical analysis, data v
 
 ## Research Question 
 
-Comparing available data from IRS records, United States Census surveys, and voter records from 2012 to 2016, are counties with higher audit rates more likely to:
-* have higher proportions of individuals identifying as Black, Hispanic, Asian American, Hawaiian-Pacific Islander, or Native American;
+Comparing available data from IRS records, United States Census surveys, and voter records from 2012 to 2016, are counties with higher audit rates more likely to have:
+* higher proportions of individuals identifying as Black, Hispanic, Asian American, Hawaiian-Pacific Islander, or Native American;
 * employment concentration within specific industries; 
 * lower median household income; and 
 * demonstrate partisan voting patterns?
