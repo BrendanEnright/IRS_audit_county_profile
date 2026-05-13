@@ -20,3 +20,32 @@ To perform the analysis, data was retrieved from three sources:
 1. United States Census Bureau Data - https://data.census.gov/
 2. IRS Audit Data - compiled by Kim Bloomquist from IRS reports from 2012 to 2016 - https://www.taxnotes.com/special-reports/audits/regional-bias-irs-audit-selection/2019/03/01/2957w 
 3. National Neighborhood Data Archive - dataset created by a research team from the University of Michigan Institute for Social Research - https://www.icpsr.umich.edu/web/ICPSR/studies/38528/versions/V6
+
+
+## Data Replication Instructions
+To replicate the data cleaning, analysis, and visualization workflow for this project, follow the steps below.
+
+### 1. Data Cleaning
+
+- Open the script `01_clean_data.r` located in the repository folder.
+- Run the script in your R development environment.
+- The script will:
+  - restructure and clean the raw datasets,
+  - prepare variables for analysis, and
+  - save local copies of the cleaned datasets for downstream analysis.
+
+### 2. Statistical Analysis
+
+- Open the script `02_analysis.r` from the repository folder.
+- Run the script to:
+  - generate statistical models from the cleaned dataset,
+  - perform stepwise regression testing, and
+  - conduct ordinal linear regression analysis on the final dataset.
+
+### 3. Data Visualization
+
+- Open the script `03_visualization.r` in your development environment.
+- Run the script to:
+  - generate visualizations of key variables and model outputs,
+  - produce figures for interpretation and review, and
+  - summarize major trends identified in the analysis.
