@@ -10,7 +10,7 @@ Comparing available data from IRS records, United States Census surveys, and vot
 * higher proportions of individuals identifying as Black, Hispanic, Asian American, Hawaiian-Pacific Islander, or Native American;
 * employment concentration within specific industries; 
 * lower median household income; and 
-* demonstrate partisan voting patterns?
+* demonstrated partisan voting patterns?
 
 ### Hypotheses
 * H<sub>0</sub> (Null Hypothesis) - Counties with higher observed audit rates from 2012 to 2016 will not be associated with higher proportions of racial and ethnic minority residents, higher levels of employment in certain industries, lower median income household levels, and higher levels of support for a particular political party. 
@@ -29,13 +29,13 @@ IRS_audit_county_profile/
 │
 ├── IRS_Audit_County_Profile.Rproj
 ├── Data/
-│   ├── Raw/
-│   │   ├── AuditRateData_2016.csv
-│   │   └── VoterAndPartisanIndexData.sav
-│   │
-│   └── processed/
-│       └── dataset_complete.csv
-|
+│   ├── Processed/
+│   |   └── dataset_complete.csv
+│   |
+|   └── Raw/
+│       ├── AuditRateData_2016.csv
+│       └── VoterAndPartisanIndexData.sav
+│   
 ├── R_Scripts/
 │   ├── 01_clean_data.R
 │   ├── 02_analysis.R
