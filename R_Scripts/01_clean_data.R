@@ -10,7 +10,7 @@ library(haven)      #SPSS file functions
 here::i_am("01_clean_data.R")
 
 #set api for census data
-census_api_key("3896982a905b29d14cc97b457fe5269e11bee60c", install = TRUE, overwrite = TRUE)
+census_api_key("Input Census API Key", install = TRUE, overwrite = TRUE)
 
 #pull in sav file with voting data
 voter_data <- read_sav(here("VoterAndPartisanIndexData.sav"))
