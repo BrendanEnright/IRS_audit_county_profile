@@ -75,4 +75,4 @@ To replicate the data cleaning, analysis, and visualization workflow for this pr
 
 ## Project Deliverables
 
-To review a write-up of the project and review a list of sources, visit this link: 
+To review a write-up of the project and review a list of sources, visit "Result_documentation" folder. 
