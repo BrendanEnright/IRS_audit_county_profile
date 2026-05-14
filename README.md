@@ -27,7 +27,6 @@ The File structure of this repository is laid out below:
 ```
 IRS_audit_county_profile/
 │
-├── IRS_Audit_County_Profile.Rproj
 ├── Data/
 │   ├── Processed/
 │   |   └── dataset_complete.csv
