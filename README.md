@@ -1,4 +1,4 @@
-# Profiles of Counties with Higher Audit Rates from 2012 to 2016
+# US County Profiles with Higher Audit Rates from 2012 to 2016
 
 This repository contains files related to a student project created in Spring of 2026 which investigates county-level patterns in IRS audit rates from 2012-2016 and their relationship to the observed demographic population, employment concentration in specific industries, and past voting records for those geographic regions. The project originated as an attempt to examine the connection between the Earned Income Tax Credit (EITC) disparities and racial/ethnic minorities (as identified by existing literature), but evolved into a broader analysis of how demographics, socio-economic factors, and political leanings may correspond to audit risk across counties within the United States. 
 
