@@ -38,6 +38,8 @@ IRS_audit_county_profile/
 │   ├── 01_clean_data.R
 │   ├── 02_analysis.R
 │   └── 03_visualization.R
+├── Result_documentation/
+│   ├── 640-Final Producet - Enright.pdf
 ├── .gitignore
 ├── LICENSE
 ├── README.md 
