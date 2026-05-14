@@ -53,7 +53,7 @@ To replicate the data cleaning, analysis, and visualization workflow for this pr
 - The script will:
   - restructure and clean the raw datasets,
   - prepare variables for analysis, and
-  - save local copies of the cleaned datasets for downstream analysis.
+  - save local copies of the cleaned datasets for later analysis.
 
 ### 2. Statistical Analysis
 
@@ -67,10 +67,10 @@ To replicate the data cleaning, analysis, and visualization workflow for this pr
 
 - Open the script `03_visualization.r` in your development environment.
 - Run the script to:
-  - generate visualizations of key variables and model outputs,
+  - generate visualizations of a few key variables and model outputs,
   - produce figures for interpretation and review, and
   - summarize major trends identified in the analysis.
 
 ## Project Deliverables
 
-To review a write-up of the project, visit this link: 
+To review a write-up of the project and review a list of sources, visit this link: 
