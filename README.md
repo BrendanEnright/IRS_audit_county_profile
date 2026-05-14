@@ -24,26 +24,24 @@ To perform the analysis, data was retrieved from three sources:
 
 ### File Structure
 The File structure of this repository is laid out below:
-
+```
 IRS_audit_county_profile/
 │
 ├── IRS_Audit_County_Profile.Rproj
 ├── Data/
 │   ├── Processed/
 │   |   └── dataset_complete.csv
-│   |
 |   └── Raw/
 │       ├── AuditRateData_2016.csv
 │       └── VoterAndPartisanIndexData.sav
-│   
 ├── R_Scripts/
 │   ├── 01_clean_data.R
 │   ├── 02_analysis.R
 │   └── 03_visualization.R
-|
 ├── .gitignore
 ├── LICENSE
-├── README.md
+├── README.md 
+```
 
 ## Data Replication Instructions
 To replicate the data cleaning, analysis, and visualization workflow for this project, follow the steps below.
